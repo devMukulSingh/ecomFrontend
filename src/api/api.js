@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = "http://localhost:8000";
+const url = "https://ecombackend-kl3b.onrender.com";
 
 export const saveUserDataApi = async(data) => {
     try {
